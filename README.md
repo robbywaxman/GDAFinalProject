@@ -2,8 +2,8 @@
 Final Project for 580.743 by Parth Vora and Robby Waxman
 
 # Data
-1. The first dataset we used is the samusik dataset, available at [link]. 
-2. The second dataset we used is the <data> dataset, available at [link]. 
+1. The first dataset we used is the samusik dataset, available in this [folder](https://github.com/robbywaxman/GDAFinalProject/tree/main/SamusikData). 
+2. The second dataset we used is the <data> dataset, available in this [folder](https://github.com/robbywaxman/GDAFinalProject/tree/main/LevineData). 
 
 # Analysis on samusik01 data
 1. tSNE, UMAP, and PCA embeddings for samusik01 are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Samusik%20Clustering.ipynb). 
