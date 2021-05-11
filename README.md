@@ -1,5 +1,6 @@
 # GDAFinalProject
 Final Project for 580.743 by Parth Vora and Robby Waxman
+
 A PDF of the Final Report for this project is available in this [document](https://github.com/robbywaxman/GDAFinalProject/blob/main/Report.pdf)
 
 # Data
