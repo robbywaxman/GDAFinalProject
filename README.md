@@ -9,7 +9,7 @@ A PDF of the Final Report for this project is available in this [document](https
 
 # Analysis on samusik01 data
 1. tSNE, UMAP, and PCA embeddings for samusik01 are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Samusik%20Clustering.ipynb). 
-2. Autoencoder models (feed forward & variational) are trained and embeddings are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/autoencoders-for-scrna-nonlinear-embeddings.ipynb). 
+2. Autoencoder models (feed forward & variational) are trained and embeddings are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/autoencoders-for-scrna-nonlinear-embeddings.ipynb). Please note that this notebook was run on kaggle.com, and so the relative paths are not correct with respect to this repository.
 3. Figures to visualize embeddings by each algorithm are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/SamusikEmbeddingFigureGeneration.ipynb).
 4. Random Forest performance on samusik01 is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/RandomForestMetrics.ipynb).
 5. KNN performance on samusik01 is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/KNNMetrics.ipynb).
@@ -20,7 +20,7 @@ A PDF of the Final Report for this project is available in this [document](https
 
 # Analysis on levine data
 1. tSNE, UMAP, and PCA embeddings for levine are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Levine%20Clustering.ipynb). 
-2. Autoencoder models (feed forward & variational) are trained and embeddings are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/levine-autoencoders.ipynb). 
+2. Autoencoder models (feed forward & variational) are trained and embeddings are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/levine-autoencoders.ipynb). Please note that this notebook was run on kaggle.com, and so the relative paths are not correct with respect to this repository.
 3. Figures to visualize embeddings by each algorithm are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/LevineEmbeddingFigureGeneration.ipynb).
 4. Random Forest performance on samusik01 is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/RandomForestMetrics.ipynb).
 5. KNN performance on samusik01 is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/KNNMetrics.ipynb).
