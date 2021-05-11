@@ -1,7 +1,7 @@
 # GDAFinalProject
 Final Project for 580.743 by Parth Vora and Robby Waxman
 
-A PDF of the Final Report for this project is available in this [document].(https://github.com/robbywaxman/GDAFinalProject/blob/main/Report.pdf)
+A PDF of the Final Report for this project is available in this [document](https://github.com/robbywaxman/GDAFinalProject/blob/main/Report.pdf).
 
 # Data
 1. The first dataset we used is the samusik dataset, available in this [folder](https://github.com/robbywaxman/GDAFinalProject/tree/main/SamusikData). 
