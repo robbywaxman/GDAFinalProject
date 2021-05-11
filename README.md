@@ -28,6 +28,3 @@ A PDF of the Final Report for this project is available in this [document](https
 7. Analysis of local data structure & algorithm runtimes is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/PearsonCorrelation_with_Runtimes_Calculations.ipynb). Plots are generated in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/PearsonCorrelationSubsampleMetrics.ipynb). 
 8. Analysis of preservation of pairwise distances is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/Pairwise%20Distances.ipynb).
 9. Analysis of mutual information is available in this [notebook](https://github.com/robbywaxman/GDAFinalProject/blob/main/Metrics/MutualInfo.ipynb). 
-
-# Final Report
-The final report for our project can be found [here](https://github.com/robbywaxman/GDAFinalProject/blob/main/Report.pdf).
